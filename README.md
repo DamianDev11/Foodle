@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a basic ECOMM app with HOME page and CART page.
+This is a basic Food ordering app with HOME page and CART page.
 
 <div align="center">
   <h2>&nbsp; Basic CRUD APP&nbsp;</h2>
